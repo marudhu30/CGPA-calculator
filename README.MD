@@ -37,14 +37,7 @@
       <br />
       💻 Creator
     </td>
- <!--    <td align="center">
-      <a href="https://github.com/friend-username">
-        <img src="https://avatars.githubusercontent.com/u/00000001" width="80px;" alt="Friend"/><br />
-        <sub><b>Friend's Name</b></sub>
-      </a>
-      <br />
-      🧠 Collaborator
-    </td> -->
+
   </tr>
 </table>
 
