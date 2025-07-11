@@ -35,7 +35,7 @@
         <sub><b>marudhu30</b></sub>
       </a>
       <br />
-      💻 Creator
+      
     </td>
 
   </tr>
