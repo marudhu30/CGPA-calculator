@@ -35,7 +35,7 @@
         <sub><b>marudhu30</b></sub>
       </a>
       <br />
-      creator
+      Creator
     </td>
     <td align="center">
       <a href="https://github.com/afraah-hub">
