@@ -30,21 +30,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/marudhu30">
-        <img src="https://avatars.githubusercontent.com/u/213002205?v=4" width="80px;" alt="Marudhu"/><br />
-        <sub><b>marudhu30</b></sub>
+      <a href="https://github.com/afraah-hub">
+        <img src="https://avatars.githubusercontent.com/u/199750412?v=4" width="80px;" alt="Friend"/><br />
+        <sub><b>Afraah</b></sub>
       </a>
-      <br />
-      💻 Creator
+      <br /> Collaborator
     </td>
- <!--    <td align="center">
-      <a href="https://github.com/friend-username">
-        <img src="https://avatars.githubusercontent.com/u/00000001" width="80px;" alt="Friend"/><br />
-        <sub><b>Friend's Name</b></sub>
-      </a>
-      <br />
-      🧠 Collaborator
-    </td> -->
+  </tr>
   </tr>
 </table>
 
