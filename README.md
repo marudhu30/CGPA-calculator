@@ -37,7 +37,13 @@
       <br />
       creator
     </td>
-
+    <td align="center">
+      <a href="https://github.com/afraah-hub">
+        <img src="https://avatars.githubusercontent.com/u/199750412?v=4" width="80px;" alt="Friend"/><br />
+        <sub><b>Afraah</b></sub>
+      </a>
+      <br /> Collaborator
+    </td>
   </tr>
 </table>
 
