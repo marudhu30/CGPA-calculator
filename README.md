@@ -9,7 +9,7 @@
   <a href="https://github.com/marudhu30/cgpa-calculator/commits/main">
     <img src="https://img.shields.io/github/last-commit/marudhu30/cgpa-calculator?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Project%20Status-Not%20Finished-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Project%20Status-%20Finished-red?style=for-the-badge&logo=github" />
 </p>
 
 
